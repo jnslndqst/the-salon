@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Sax & Fön",
+    "avergeRating": 3,
+    "numberOfRatings": 32,
+    "price": 200,
+    "currency": "kr",
+    "duration": "30 min",
+    "phone": "08-522 389 20",
+    "web": "saxofon.se",
+    "desc": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet.",
+    "openingHours": [
+      {
+        "weekDay": "Måndag",
+        "from": "08:00",
+        "to": "19:00"
+      },
+      {
+        "weekDay": "Tisdag",
+        "from": "08:00",
+        "to": "19:00"
+      },
+      {
+        "weekDay": "Onsdag",
+        "from": "08:00",
+        "to": "19:00"
+      },
+      {
+        "weekDay": "Torsdag",
+        "from": "08:00",
+        "to": "19:00"
+      },
+      {
+        "weekDay": "Fredag",
+        "from": "08:00",
+        "to": "19:00"
+      },
+      {
+        "weekDay": "Lördag",
+        "from": "10:00",
+        "to": "17:00"
+      },
+      {
+        "weekDay": "Söndag"
+      }
+    ],
+    "address": {
+      "street": "Rådmansgatan",
+      "streetNumber": "32",
+      "zipCode": "113 57",
+      "city": "Stocholm"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Hair & Nu",
+    "avergeRating": 4,
+    "numberOfRatings": 10,
+    "price": 320,
+    "currency": "kr",
+    "duration": "30 min",
+    "openingHours": [],
+    "address": {
+      "street": "Rådmansgatan",
+      "streetNumber": "32",
+      "zipCode": "113 57",
+      "city": "Stocholm"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hårizont",
+    "avergeRating": 5,
+    "numberOfRatings": 99,
+    "price": 850,
+    "currency": "kr",
+    "duration": "60 min",
+    "phone": "08-522 389 20",
+    "web": "www.harizont.se",
+    "desc": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet.",
+    "openingHours": [
+      {
+        "weekDay": "Måndag",
+        "from": "08:00",
+        "to": "22:00"
+      },
+      {
+        "weekDay": "Tisdag",
+        "from": "08:00",
+        "to": "22:00"
+      },
+      {
+        "weekDay": "Onsdag",
+        "from": "08:00",
+        "to": "22:00"
+      },
+      {
+        "weekDay": "Torsdag",
+        "from": "08:00",
+        "to": "22:00"
+      },
+      {
+        "weekDay": "Fredag",
+        "from": "08:00",
+        "to": "22:00"
+      },
+      {
+        "weekDay": "Lördag",
+        "from": "10:00",
+        "to": "20:00"
+      },
+      {
+        "weekDay": "Söndag"
+      }
+    ],
+    "address": {
+      "street": "Rådmansgatan",
+      "streetNumber": "32",
+      "zipCode": "113 57",
+      "city": "Stocholm"
+    }
+  }
+]
