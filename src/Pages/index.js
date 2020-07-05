@@ -1,2 +1,2 @@
-export { default as Salons } from "./Salons";
-export { default as Salon } from "./Salon";
+export { default as Salons } from "./salons";
+export { default as Salon } from "./salon";
