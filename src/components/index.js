@@ -1,16 +1,16 @@
-export { default as Page } from "./Page";
-export { default as AppBar } from "./AppBar";
-export { default as BackButton } from "./BackButton";
-export { default as LikeButton } from "./LikeButton";
-export { default as FilterButton } from "./FilterButton";
-export { default as Text } from "./Text";
-export { default as Heading } from "./Heading";
-export { default as Rating } from "./Rating";
-export { default as Row } from "./Row";
-export { default as Column } from "./Column";
-export { default as IconWrapper } from "./IconWrapper";
+export { default as Page } from "./page";
+export { default as AppBar } from "./appbar";
+export { default as BackButton } from "./backbutton";
+export { default as LikeButton } from "./likebutton";
+export { default as FilterButton } from "./filterbutton";
+export { default as Text } from "./text";
+export { default as Heading } from "./heading";
+export { default as Rating } from "./rating";
+export { default as Row } from "./row";
+export { default as Column } from "./column";
+export { default as IconWrapper } from "./iconwrapper";
 export {
   DropDownContainer,
   DropDownListContainer,
   DropDownList,
-} from "./DropDown";
+} from "./dropdown";
