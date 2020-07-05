@@ -65,7 +65,6 @@ export default function Filters({ onFilterSelected }) {
 
   const toggling = () => setIsOpen(!isOpen);
   const handleFilterSelected = (e) => {
-    console.log(e.target);
     const key = parseInt(e.target.dataset.key);
     const filter = prices.find((x) => x.key === key);
     setActiveFilter(filter);

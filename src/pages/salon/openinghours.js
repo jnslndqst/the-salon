@@ -57,7 +57,7 @@ export default function OpeningHours({ days }) {
         <DropDownListContainer>
           <DropDownList>
             {days.map((day) => (
-              <ListItem key={Math.random()}>
+              <ListItem key={day.weekDay}>
                 <Text>{`${day.weekDay}`}</Text>
                 <Text>{!day.to ? "Stängt" : `${day.from}-${day.to}`}</Text>
               </ListItem>
