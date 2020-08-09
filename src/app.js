@@ -2,7 +2,7 @@ import React from "react";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import styled from "styled-components";
-import { Salons, Salon, BackgroundVideo } from "./pages";
+import { Salon, BackgroundVideo } from "./pages";
 
 const AppContainer = styled.div`
   margin: 0;
