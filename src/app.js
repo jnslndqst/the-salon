@@ -2,7 +2,7 @@ import React from "react";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import styled from "styled-components";
-import { Salons, Salon } from "./pages";
+import { Salons, Salon, BackgroundVideo } from "./pages";
 
 const AppContainer = styled.div`
   margin: 0;
@@ -14,7 +14,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/">
-            <Salons />
+            <BackgroundVideo />
           </Route>
           <Route path="/salon/:id">
             <Salon />
